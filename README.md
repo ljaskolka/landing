@@ -1,3 +1,4 @@
-# Simple Landing Page
-## The Odin Project
+# The Odin Project: Landing Page
+## Foundations Course
 
+Simple landing page built using HTML & CSS
